@@ -1,0 +1,16 @@
+{
+  "name": "js_axelar_gmp",
+  "version": "1.0.0",
+  "main": "send_gmp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@axelar-network/axelarjs-sdk": "^0.17.4",
+    "ethers": "^6.14.3"
+  }
+}

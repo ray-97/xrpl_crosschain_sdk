@@ -1,0 +1,82 @@
+# --- General ---
+# Environment variables
+# Contains sensitive information like private keys and API keys. NEVER commit this.
+.env
+
+# Log files
+*.log
+*.log.*
+
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environment
+# This is specific to your local machine and can be large.
+# Recreate it from a requirements.txt file instead.
+venv/
+.venv/
+env/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Node.js / npm / Hardhat ---
+# Node.js dependencies folder
+# This can be massive and should be installed via 'npm install' from package.json.
+node_modules/
+
+# Debug log from npm
+npm-debug.log*
+
+# Hardhat build artifacts and cache
+# These are generated during compilation and testing.
+artifacts/
+cache/
+
+# --- OS-specific ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# --- IDE / Editor-specific ---
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+```
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+### How to use this file:
+
+1.  Create a file named `.gitignore` in the root of your project (`~/xrpl_crosschain_sdk/`).
+2.  Copy the content from the document above.
+3.  Paste it into the `.gitignore` file and save it.
+
+Git will now ignore all the specified files and directories, keeping your repository clean and focused on your source co
