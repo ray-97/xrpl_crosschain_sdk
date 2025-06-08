@@ -53,7 +53,7 @@ Here's a snapshot of the successful output from the demo script + transactions o
 ## Links & Resources
 
 * **Slide Deck:** `[https://www.canva.com/design/DAGppiQhudk/afLmJ_cGQrz2i2Phrerl-g/edit?utm_content=DAGppiQhudk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]`
-* **Video Demo:** `[placeholder_for_your_video_demo_link]`
+* **Video Demo:** `[https://youtu.be/2G3Fp8CXTUs]`
 * **XRPL MPToken Issuance Transaction:** `[https://devnet.xrpl.org/transactions/5E431AA55ECB3E1EB9B2869747CC0806BAB3B05D737C5ABD49E74C5FAD548CB6/raw]`
 * **EVM Contract Deployment:** `[https://explorer.testnet.xrplevm.org/tx/0xb666b3425d30bb34dc655752f09fd23b590b05f90e7abbd4d232a8dffdddc0c6]`
 * **Simulated Bridge Mint Transaction:** `[https://explorer.testnet.xrplevm.org/tx/0x231280ca1b6deea392c0a27be6ac4b6b9ba414f955bd7fb4bf90100bd792c838]`
